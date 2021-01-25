@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User plays the COVID-19 game","User launch the small and play it with correct answer","ERROR","2021-01-25T16:43:21.292+11:00[Australia/Sydney]","0.0","41.13"
+"User plays the COVID-19 game","User launch the covidGame and play it with correct answer","ERROR","2021-01-25T18:54:22.543+11:00[Australia/Sydney]","0.0","34.01"
+"User plays the COVID-19 game","User launch the covidGame and play it with incorrect answer","SUCCESS","2021-01-25T18:54:57.948+11:00[Australia/Sydney]","0.0","35.91"
+"User plays the COVID-19 game","User launch the covidGame and do not provide an answer","ERROR","2021-01-25T18:55:35.33+11:00[Australia/Sydney]","0.0","86.12"
+"User plays the COVID-19 game","User launch the all game and play it with correct answer","ERROR","2021-01-25T18:57:02.303+11:00[Australia/Sydney]","0.0","43.53"

@@ -1,0 +1,16 @@
+com\pages\HomePageObject.class
+com\steps\HomePageStep.class
+com\stepDefinition\CovidAreYouGameDefinition.class
+com\pages\PublicPlacePageObject.class
+com\runner\CucumberTestSuite.class
+com\steps\OfficePageStep.class
+com\pages\AreYouGamePageObject.class
+com\pages\TakeTheBusPageObject.class
+com\steps\AreYouGamePageStep.class
+com\steps\BattleFieldGamePageStep.class
+com\pages\BattleFieldGamePageObject.class
+com\steps\CommonPageStep.class
+com\steps\TakeTheBusPageStep.class
+com\pages\CommonPageObject.class
+com\pages\OfficePageObject.class
+com\steps\PublicPlacePageStep.class

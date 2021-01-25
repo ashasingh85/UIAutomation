@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: User plays the COVID-19 game
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 203.702 s <<< FAILURE! - in User plays the COVID-19 game
+User plays the COVID-19 game.User launch the covidGame and play it with correct answer  Time elapsed: 34.413 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <a id="answer_2" class="btn text-wrap" style="position: relative; white-space: inherit; font-size: larger; text-align: center;">...</a> is not clickable at point (738, 526). Other element would receive the click: <div class="caption">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-SF99IFHK', ip: '192.168.1.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\ashok\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62806}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 87d3692e44a20732e2920fda06a117a2
+
+User plays the COVID-19 game.User launch the covidGame and do not provide an answer  Time elapsed: 86.124 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Timed out after 30 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-SF99IFHK', ip: '192.168.1.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: driver.version: unknown
+
+User plays the COVID-19 game.User launch the all game and play it with correct answer  Time elapsed: 43.541 s  <<< ERROR!
+org.openqa.selenium.ElementNotVisibleException: 
+Timed out after 30 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-SF99IFHK', ip: '192.168.1.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: driver.version: unknown
+

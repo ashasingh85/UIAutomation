@@ -1,0 +1,3 @@
+Defect -
+1- On home page when we provide the warrior name and click Create warrior and then button name changes to "Start Your Journey + warrior name" but the text "tell me you warrior name " remains displayed.
+2-Once we answer the question from the Bus, the questions are keep on showing one by one in the round robin pattern even after completing the game.Once the time out occurs then only Return to home link displayed.
